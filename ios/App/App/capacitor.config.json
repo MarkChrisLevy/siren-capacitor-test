@@ -1,0 +1,7 @@
+{
+  "appId": "com.sirencapacitor",
+  "appName": "SirenTest",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www"
+}

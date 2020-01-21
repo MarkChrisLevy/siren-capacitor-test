@@ -1,5 +1,5 @@
 {
-  "appId": "com.sirencapacitor",
+  "appId": "com.apple.AppStoreConnect",
   "appName": "SirenTest",
   "bundledWebRuntime": true,
   "npmClient": "npm",
